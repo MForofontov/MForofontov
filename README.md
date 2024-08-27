@@ -1,20 +1,18 @@
 <h1 align="center">Hi there, I'm [Your Name]! 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/[your-username]?tab=repositories"><img src="https://img.shields.io/badge/-My%20Repos-181717?style=for-the-badge&logo=github" alt="GitHub Repositories"></a>
-  <a href="https://www.linkedin.com/in/[your-linkedin-username]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/MForofontov?tab=repositories"><img src="https://img.shields.io/badge/-My%20Repos-181717?style=for-the-badge&logo=github" alt="GitHub Repositories"></a>
+  <a href="https://www.linkedin.com/in/mykyta-forofontov-7128a31bb"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:[mykyta_forofontov@hotmail.com]"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on **[AwesomeProject](https://github.com/your-username/awesomeproject)**
-- 🌱 I’m currently learning **[Something Cool]**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, Data Science, or Machine Learning**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: **I love exploring the outdoors and coding challenges**
+- 🔭 I’m currently working on **[AwesomeProject]([https://github.com/your-username/awesomeproject](https://github.com/MForofontov/Schema_Refinery))**
+- 🌱 I’m currently learning **React**
+- 💬 Ask me about **Web Development**
+- ⚡ Fun fact: **I love coding challenges**
 
 ---
 
@@ -34,8 +32,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MForofontov&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MForofontov&layout=compact&theme=radical" alt="Top Languages" height="180em" />
 </p>
 
 ---
