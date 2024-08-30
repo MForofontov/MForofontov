@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on **[AwesomeProject]([https://github.com/your-username/awesomeproject](https://github.com/MForofontov/Schema_Refinery))**
+- 🔭 I’m currently working as a **Software Engineer**
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **Web Development, Software Development**
 - ⚡ Fun fact: **I love coding challenges**
