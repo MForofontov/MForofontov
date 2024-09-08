@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working as a **Software Engineer**
 - 🌱 I’m currently learning **React and Django framework**
-- 💬 Ask me about **Web Development, Software Development**
+- 💬 Ask me about **Web Development, Software Development, QA**
 - ⚡ Fun fact: **I love coding challenges**
 
 ---
