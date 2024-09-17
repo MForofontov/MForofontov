@@ -16,10 +16,6 @@
 
 ---
 
-<p>
-<!-- GitHub Contributions Graph -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MForofontov&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=false" />
-</p>
 ### 🛠️ Programming languages:
 <p>
 <!-- Python -->
