@@ -88,6 +88,20 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" height="40" alt="Notion" />
 
 </p>
+
+### Methodologies I Use:
+<p>
+<!-- Agile/Scrum -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/agile/agile-original.svg" width="40" height="40" alt="Agile/Scrum" />
+
+<!-- Kanban -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kanban/kanban-original.svg" width="40" height="40" alt="Kanban" />
+
+<!-- CI/CD -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ci/circleci-original.svg" width="40" height="40" alt="CI/CD" />
+</p>
+
+
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MForofontov&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
