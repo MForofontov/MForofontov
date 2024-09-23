@@ -42,7 +42,7 @@
 ### Libraries and frameworks:
 
 <p>
-<!-- Django --
+<!-- Django -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
 
 <!-- React -->
