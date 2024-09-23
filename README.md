@@ -39,9 +39,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash Shell Scripting" />
 </p>
 
-<!-- SQL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" />
-
 ### Libraries and frameworks:
 
 <p>
