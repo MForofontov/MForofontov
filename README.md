@@ -39,11 +39,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash Shell Scripting" />
 </p>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <ellipse cx="12" cy="5" rx="9" ry="3"></ellipse>
-    <path d="M3 5v14c0 1.657 7 3 9 3s9-1.343 9-3V5"></path>
-</svg>
-
 ### Libraries and frameworks:
 
 <p>
