@@ -54,6 +54,9 @@
 <p>
 <!-- PostgreSQL -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+
+<!-- SQLite -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
 </p>
 
 ### Tools & Technologies I Use:
