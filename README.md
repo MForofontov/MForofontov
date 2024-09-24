@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mykyta Forofontov! 👋</h1>
+<h1 align="center">Hello there, I'm Mykyta Forofontov! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/MForofontov?tab=repositories"><img src="https://img.shields.io/badge/-My%20Repos-181717?style=for-the-badge&logo=github" alt="GitHub Repositories"></a>
