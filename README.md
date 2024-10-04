@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working as a **Software Engineer**
-- 🌱 I’m currently learning **React library for front end, Django framework for back end and C programming language**
+- 🌱 I’m currently learning **React library for front end, Django framework for back end and C programming languages**
 - 💬 Ask me about **Web Development, Software Development, QA**
 
 ---
