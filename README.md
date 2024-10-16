@@ -104,7 +104,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" height="40" alt="Notion" />
 
 <!-- DBeaver -->
-<img src="https://dbeaver.io/wp-content/uploads/2020/08/dbeaver-logo.png" width="40" height="40" alt="DBeaver" />
+<img src="https://dbeaver.io/wp-content/uploads/2023/08/dbeaver-head-200x200.png" width="40" height="40" alt="DBeaver Logo" />
 
 </p>
 
