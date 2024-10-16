@@ -103,6 +103,8 @@
 <!-- Notion -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" height="40" alt="Notion" />
 
+<!-- DBeaver -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/37/DBeaver_logo.svg" width="40" height="40" alt="DBeaver" />
 </p>
 
 ---
