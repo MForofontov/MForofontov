@@ -15,6 +15,15 @@
 
 ---
 
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MForofontov&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MForofontov&layout=compact&theme=radical&count_private=true&langs_count=10" height="180em" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MForofontov&theme=onedark" alt="GitHub Profile Trophy">
+</p>
+
+---
+
 ## **Tools & Technologies I Use**
 
 ### 🛠️ Programming languages:
@@ -131,15 +140,6 @@
 
 <!-- RStudio -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40" alt="RStudio" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MForofontov&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MForofontov&layout=compact&theme=radical&count_private=true&langs_count=10" height="180em" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MForofontov&theme=onedark" alt="GitHub Profile Trophy">
 </p>
 
 ---
