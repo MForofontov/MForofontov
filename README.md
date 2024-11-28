@@ -60,7 +60,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" />
 </p>
 
-### Databases:
+### Databases and Databases management
 
 <p>
 <!-- PostgreSQL -->
@@ -68,31 +68,30 @@
 
 <!-- SQLite -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
+
+<!-- DBeaver -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40" alt="DBeaver" />
 </p>
 
 ### Task Management & Caching
 
 <p>
 <!-- Celery -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" width="40" height="40" alt="Celery" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Celery_logo.png" width="40" height="40" alt="Celery" />
 
 <!-- Redis -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
 </p>
 
-### Version Control
+### Version Control, Project Management & Collaboration
 
 <p> 
 <!-- GitHub --> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
 
 <!-- Git -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /></p>
 
-### Project Management & Collaboration
-
-<p>
 <!-- Jira -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira" />
 
@@ -116,13 +115,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
 </p>
 
-### Database Management
-
-<p>
-<!-- DBeaver -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40" alt="DBeaver" />
-</p>
-
 ### IDEs & Code Editors
 
 <p>
@@ -136,9 +128,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" width="40" height="40" alt="Spyder" />
 </p>
 
-### Data Science Tools
-
-<p>
 <!-- Jupyter -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" />
 
