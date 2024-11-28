@@ -77,7 +77,7 @@
 
 <p>
 <!-- Celery -->
-<img src="celery.png" width="40" height="40" alt="Celery" />
+Celery
 
 <!-- Redis -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
