@@ -77,7 +77,7 @@
 
 <p>
 <!-- Celery -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Celery_logo.png" width="40" height="40" alt="Celery" />
+<img src="https://celeryproject.org/static/img/celery_logo.png" width="40" height="40" alt="Celery" />
 
 <!-- Redis -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
