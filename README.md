@@ -70,58 +70,48 @@
 
 ## **Tools & Technologies I Use**
 
-### **Version Control**
-- **GitHub**  
-  ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)  
-- **Git**  
-  ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)  
+### Version Control
 
----
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" alt="GitHub" /> GitHub
 
-### **Project Management & Collaboration**
-- **Jira**  
-  ![Jira](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg)  
-- **Notion**  
-  ![Notion](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" alt="Git" /> Git
+</p>
 
----
+### Project Management & Collaboration
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="20" height="20" alt="Jira" /> Jira
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="20" height="20" alt="Notion" /> Notion
+</p>
 
-### **Development Tools**
-- **Vite**  
-  ![Vite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg)  
-- **Postman**  
-  ![Postman](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg)  
+### Development Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="20" height="20" alt="Vite" /> Vite
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="20" height="20" alt="Postman" /> Postman
+</p>
 
----
+### Containers & Deployment
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" alt="Docker" /> Docker
+</p>
 
-### **Containers & Deployment**
-- **Docker**  
-  ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)  
+### Database Management
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="20" height="20" alt="DBeaver" /> DBeaver
+</p>
 
----
+### IDEs & Code Editors
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20" alt="Visual Studio Code" /> Visual Studio Code
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="20" height="20" alt="PyCharm" /> PyCharm
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" width="20" height="20" alt="Spyder" /> Spyder
+</p>
 
-### **IDEs & Code Editors**
-- **Visual Studio Code**  
-  ![Visual Studio Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)  
-- **PyCharm**  
-  ![PyCharm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg)  
-- **Spyder**  
-  ![Spyder](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg)  
-
----
-
-### **Data Science Tools**
-- **Jupyter**  
-  ![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg)  
-- **RStudio**  
-  ![RStudio](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg)  
-
----
-
-### **Database Management**
-- **DBeaver**  
-  ![DBeaver](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg)  
-
+### Data Science Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="20" height="20" alt="Jupyter" /> Jupyter
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="20" height="20" alt="RStudio" /> RStudio
+</p>
 
 ---
 
