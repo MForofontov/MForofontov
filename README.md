@@ -82,7 +82,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40" alt="DBeaver" />
 </p>
 
-### Task Management & Caching
+### Task Management, Caching, and Event Streaming
 
 <p>
 <!-- Celery -->
