@@ -95,7 +95,7 @@
 
 </p>
 
-### Monitoring, Metrics, and Visualization
+### Monitoring, Metrics, and Visualization:
 
 <p>
 <!-- Grafana -->
@@ -106,7 +106,7 @@
 
 </p>
 
-### Version Control, Project Management & Collaboration
+### Version Control, Project Management & Collaboration:
 
 <p> 
 <!-- GitHub --> 
@@ -122,7 +122,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" height="40" alt="Notion" />
 </p>
 
-### Development Tools
+### Development Tools:
 
 <p>
 <!-- Vite -->
@@ -132,13 +132,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
 </p>
 
-### Containers & Deployment
+### Containers & Deployment:
 <p>
 <!-- Docker -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
 </p>
 
-### IDEs & Code Editors
+### IDEs & Code Editors:
 
 <p>
 <!-- Visual Studio Code -->
