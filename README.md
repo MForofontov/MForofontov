@@ -69,7 +69,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" />
 </p>
 
-### Databases and Databases management
+### Databases and Databases management:
 
 <p>
 <!-- PostgreSQL -->
@@ -82,7 +82,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40" alt="DBeaver" />
 </p>
 
-### Task Management, Caching, and Event Streaming
+### Task Management, Caching, Event Streaming and Message Brokering:
 
 <p>
 <!-- Celery -->
