@@ -95,6 +95,17 @@
 
 </p>
 
+### Monitoring, Metrics, and Visualization
+
+<p>
+<!-- Grafana -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" />
+
+<!-- Prometheus -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus" />
+
+</p>
+
 ### Version Control, Project Management & Collaboration
 
 <p> 
