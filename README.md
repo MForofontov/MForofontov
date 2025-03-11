@@ -129,6 +129,9 @@
 <!-- Jira -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira" />
 
+<!-- Confluence -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atlassian/atlassian-original.svg" width="40" height="40" alt="Confluence" />
+
 <!-- Notion -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" height="40" alt="Notion" />
 </p>
