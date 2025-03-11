@@ -130,7 +130,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira" />
 
 <!-- Confluence -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atlassian/atlassian-original.svg" width="40" height="40" alt="Confluence" />
+<img src="https://wac-cdn.atlassian.com/dam/jcr:e7c01278-6a8a-4373-9831-90c05c79f6ff/confluence-icon-gradient-blue.svg" width="40" height="40" alt="Confluence" />
 
 <!-- Notion -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" height="40" alt="Notion" />
