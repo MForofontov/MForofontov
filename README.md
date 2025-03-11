@@ -104,6 +104,9 @@
 <!-- Prometheus -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus" />
 
+<!-- Elasticsearch -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="Elasticsearch" />
+
 </p>
 
 ### Version Control, Project Management & Collaboration:
