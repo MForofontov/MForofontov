@@ -111,7 +111,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="40" height="40" alt="Kibana" />
 
  <!-- LogicMonitor -->
-<img src="https://www.logicmonitor.com/wp-content/uploads/2021/06/LM-LOGO-FULL-COLOR.svg" width="120" height="40" alt="LogicMonitor" />
 
 </p>
 
