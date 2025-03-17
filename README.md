@@ -170,10 +170,4 @@
 
 ---
 
-### 🧑‍🎓 Education:
-- 📚 **[University of Lisbon]** - Master's in Computer Science
-  2021 - 2023
-
----
-
 <p align="center">Let's connect! Find me on <a href="https://www.linkedin.com/in/mykyta-forofontov-7128a31bb">LinkedIn</a> or <a href="mailto:mykyta_forofontov@hotmail.com">email</a>.</p>
