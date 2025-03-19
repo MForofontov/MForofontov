@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working as a **Test Automation Engineer II**
-- 🌱 I’m currently learning **React library for front-end, Django framework and FastAPI framework for back-end, Typescript/Javascript language, C programming language and machine learning**
+- 🌱 I’m currently learning **React library for front-end, Django framework and FastAPI framework for back-end, Typescript/Javascript language, C programming languages and machine learning**
 - 💬 Ask me about **Web Development, Software Development, QA and machine learning**
 
 ---
