@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working as a **Test Automation Engineer II**
-- 🌱 I’m currently learning **React library for front-end, NestJS and FastAPI frameworks for back-end, Typescript/Javascript languages, C programming language and machine learning**
+- 🌱 I’m currently learning **React library for front-end, NestJS and FastAPI frameworks for back-end, Typescript/Javascript languages, C programming languages and machine learning**
 - 💬 Ask me about **Web Development, Software Development, QA and machine learning**
 
 ---
