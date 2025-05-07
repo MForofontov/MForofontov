@@ -114,7 +114,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="40" height="40" alt="Kibana" />
 
 <!-- LogicMonitor -->
-<img src="https://seeklogo.com/images/L/logicmonitor-logo-340044.svg" width="40" height="40" alt="LogicMonitor" />
+<img src="https://svgmix.com/item/yP6qnV/logicmonitor" width="40" height="40" alt="LogicMonitor" />
 
 </p>
 
