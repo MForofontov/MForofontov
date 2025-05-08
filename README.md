@@ -147,6 +147,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
 </p>
 
+### Infrastructure as Code / Automation:
+<p>
+<!-- Ansible --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" />
+</p>
+
 ### Containers & Deployment:
 <p>
 <!-- Docker -->
