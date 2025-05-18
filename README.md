@@ -147,7 +147,11 @@
 
 ### Infrastructure as Code / Automation:
 <p>
-<!-- Ansible --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" />
+<!-- Ansible --> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" />
+
+<!-- Rundeck -->
+<img src="https://rundeck.org/images/logo-rundeck-icon.svg" width="40" height="40" alt="Rundeck" />
 </p>
 
 ### Containers & Deployment:
