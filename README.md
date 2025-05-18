@@ -63,7 +63,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
 
 <!-- NestJS -->
-<img src="https://nestjs.com/img/logo-small.svg" width="40" height="40" alt="NestJS" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS" />
 
 <!-- FastAPI -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
@@ -88,11 +88,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40" alt="DBeaver" />
 </p>
 
-### Task Management, Caching, Event Streaming and Message Brokering:
+### Task Queues & Messaging:
 
 <p>
-<!-- Celery -->
-
 <!-- Redis -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
 
