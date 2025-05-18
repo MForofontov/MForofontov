@@ -91,6 +91,8 @@
 ### Task Queues & Messaging:
 
 <p>
+<!-- Celery -->
+  
 <!-- Redis -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
 
@@ -151,7 +153,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" />
 
 <!-- Rundeck -->
-<img src="https://rundeck.org/images/rundeck-logo-512x512.png" width="40" height="40" alt="Rundeck" />
+
 </p>
 
 ### Containers & Deployment:
