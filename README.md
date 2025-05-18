@@ -167,6 +167,9 @@
 <!-- PyCharm -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm" />
 
+<!-- Cursor -->
+<img src="https://avatars.githubusercontent.com/u/110732033?s=200&v=4" width="40" height="40" alt="Cursor" />
+
 <!-- Spyder -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" width="40" height="40" alt="Spyder" />
 
