@@ -152,6 +152,9 @@
 <!-- Ansible --> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" />
 
+<!-- Terraform -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" />
+
 <!-- Rundeck -->
 
 </p>
