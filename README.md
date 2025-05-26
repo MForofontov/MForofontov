@@ -90,8 +90,8 @@
 
 ### ☁️ Cloud Platforms:
 <p>
-<!-- AWS -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="40" height="40" alt="AWS" />
+<!-- AWS (white using filter) -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="40" height="40" alt="AWS" style="filter: brightness(0) invert(1);" />
 </p>
 
 ### Task Queues & Messaging:
