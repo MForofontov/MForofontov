@@ -91,7 +91,7 @@
 ### ☁️ Cloud Platforms:
 <p>
 <!-- AWS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="40" height="40" alt="AWS" />
 </p>
 
 ### Task Queues & Messaging:
