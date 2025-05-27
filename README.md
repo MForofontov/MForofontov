@@ -88,7 +88,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40" alt="DBeaver" />
 </p>
 
-### ☁️ Cloud Platforms:
+### Cloud Platforms:
 <p>
 <!-- AWS (white using filter) -->
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="40" height="40" alt="AWS" />
