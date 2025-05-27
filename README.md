@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MForofontov&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MForofontov&layout=compact&theme=radical" height="180em" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MForofontov&theme=onedark" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=MForofontov&theme=onedark&exclude=Multilang" />
 </p>
 
 ---
