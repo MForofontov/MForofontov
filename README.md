@@ -192,7 +192,3 @@
 <!-- RStudio -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40" alt="RStudio" />
 </p>
-
----
-
-<p align="center">Let's connect! Find me on <a href="https://www.linkedin.com/in/mykyta-forofontov-7128a31bb">LinkedIn</a>.</p>
