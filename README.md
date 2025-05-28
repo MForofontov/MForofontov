@@ -195,4 +195,4 @@
 
 ---
 
-<p align="center">Let's connect! Find me on <a href="https://www.linkedin.com/in/mykyta-forofontov-7128a31bb">LinkedIn</a> or <a href="mailto:mykyta_forofontov@hotmail.com">email</a>.</p>
+<p align="center">Let's connect! Find me on <a href="https://www.linkedin.com/in/mykyta-forofontov-7128a31bb">LinkedIn</a>.</p>
