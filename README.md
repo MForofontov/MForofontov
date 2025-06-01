@@ -84,6 +84,9 @@
 <!-- SQLite -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
 
+<!-- Redis -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
+
 <!-- DBeaver -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40" alt="DBeaver" />
 </p>
@@ -94,13 +97,10 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="40" height="40" alt="AWS" />
 </p>
 
-### Task Queues & Messaging:
+### Event streaming & Messaging:
 
 <p>
 <!-- Celery -->
-  
-<!-- Redis -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
 
 <!-- Kafka -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" />
