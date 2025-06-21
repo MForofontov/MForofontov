@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working as a **Test Automation Engineer II**
-- 🌱 I’m currently learning **Next.js for front-end, NestJS, Fastify and FastAPI frameworks for back-end, Typescript/Javascript languages, Go and machine learning**
+- 🌱 I’m currently learning **Next.js, NestJS, Fastify, FastAPI frameworks, Typescript/Javascript languages, Go and machine learning**
 - 💬 Ask me about **Web Development, Software Development, QA and machine learning**
 
 ---
