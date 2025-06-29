@@ -104,6 +104,9 @@
 <!-- Kafka -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" />
 
+<!-- RabbitMQ -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ" />
+
 </p>
 
 ### Monitoring, Metrics, Logs, and Visualization:
