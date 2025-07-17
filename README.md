@@ -91,16 +91,16 @@
 </p>
 
 ### Cloud Platforms:
+
 <p>
-<!-- AWS (white using filter) -->
+<!-- AWS -->
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="40" height="40" alt="AWS" />
 </p>
 
 <p>
-  <!-- GCP (white using filter) -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlecloud.svg" width="40" height="40" alt="GCP" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%) contrast(100%);" />
+<!-- GCP -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlecloud.svg" width="40" height="40" alt="Google Cloud Platform" />
 </p>
-
 
 ### Event streaming & Messaging:
 
