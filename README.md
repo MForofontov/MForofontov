@@ -93,13 +93,15 @@
 ### Cloud Platforms:
 
 <p>
-<!-- AWS -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="40" height="40" alt="AWS" />
-</p>
+  <!-- AWS (white) -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg"
+       width="40" height="40" alt="AWS"
+       style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%) contrast(100%);" />
 
-<p>
-<!-- GCP -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlecloud.svg" width="40" height="40" alt="Google Cloud Platform" />
+  <!-- GCP (white) -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlecloud.svg"
+       width="40" height="40" alt="Google Cloud Platform"
+       style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(200%) contrast(100%);" />
 </p>
 
 ### Event streaming & Messaging:
