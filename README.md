@@ -93,15 +93,11 @@
 ### Cloud Platforms:
 
 <p>
-  <!-- AWS (icon-only, colored PNG) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg"
-       width="40" height="40" alt="AWS"
-       style="filter: none;" />
+<!-- AWS -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="40" height="40" alt="AWS" />
 
-  <!-- GCP (icon-only, colored SVG) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Google_Cloud_Logo.svg/512px-Google_Cloud_Logo.svg.png"
-       width="40" height="40" alt="Google Cloud Platform"
-       style="filter: none;" />
+<!-- GCP -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlecloud.svg" width="40" height="40" alt="Google Cloud Platform" />
 </p>
 
 ### Event streaming & Messaging:
