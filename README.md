@@ -64,6 +64,9 @@
 <!-- NestJS -->
 <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40" alt="NestJS" />
 
+<!-- Next.js -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+
 <!-- FastAPI -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
 
