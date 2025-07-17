@@ -94,10 +94,10 @@
 
 <p>
 <!-- AWS -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="40" height="40" alt="AWS" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" width="40" height="40" alt="AWS" />
 
 <!-- GCP -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlecloud.svg" width="40" height="40" alt="Google Cloud Platform" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-cloud.svg" width="40" height="40" alt="Google Cloud Platform" />
 </p>
 
 ### Event streaming & Messaging:
