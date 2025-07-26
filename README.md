@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working as a **Software developer III**
-- 🌱 I’m currently learning **Next.js, NestJS, Fastify, FastAPI frameworks, Typescript/Javascript languages, Go and DevOps**
+- 🌱 I’m currently learning **Next.js, NestJS, Fastify, FastAPI frameworks, Typescript/Javascript languages, Go and DevOps tools**
 
 ---
 
