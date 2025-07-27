@@ -125,6 +125,15 @@
 <!-- Prometheus -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus" />
 
+<!-- Mimir -->
+<img src="https://grafana.com/static/assets/img/logos/logo-mimir.svg" width="40" height="40" alt="Mimir" />
+
+<!-- Elasticsearch -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="Elasticsearch" />
+
+<!-- Logstash -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" width="40" height="40" alt="Logstash" />
+
 <!-- Kibana -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="40" height="40" alt="Kibana" />
 
