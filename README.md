@@ -126,7 +126,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus" />
 
 <!-- Mimir -->
-<img src="https://svgmix.com/export/4Zkx3g/grafana-mimir.svg" width="40" height="40" alt="Grafana Mimir" />
+<img src="https://grafana.com/static/assets/img/logos/logo-mimir.svg" width="40" height="40" alt="Mimir" />
 
 <!-- Elasticsearch -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="Elasticsearch" />
