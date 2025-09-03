@@ -106,6 +106,9 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-cloud.svg" width="40" height="40" alt="Google Cloud Platform" />
 </p>
 
+<!-- OpenStack -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/The_OpenStack_logo.svg" width="40" height="40" alt="OpenStack Logo" />
+
 ### Event streaming & Messaging:
 
 <p>
