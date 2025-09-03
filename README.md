@@ -104,10 +104,11 @@
 
 <!-- GCP -->
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-cloud.svg" width="40" height="40" alt="Google Cloud Platform" />
-</p>
 
 <!-- OpenStack -->
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/openstack.svg" width="40" height="40" alt="OpenStack" />
+
+</p>
 
 ### Event streaming & Messaging:
 
