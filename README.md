@@ -107,7 +107,7 @@
 </p>
 
 <!-- OpenStack -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/The_OpenStack_logo.svg" width="40" height="40" alt="OpenStack Logo" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/openstack.svg" width="40" height="40" alt="OpenStack" />
 
 ### Event streaming & Messaging:
 
