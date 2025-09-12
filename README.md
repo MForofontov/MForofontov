@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working as a **Software developer III**
-- 🌱 I’m currently learning **Next.js, NestJS, React, Typescript/Javascript languages, Go, Devops tools**
+- 🌱 I’m currently learning **Next.js, NestJS, React, Typescript/Javascript languages, Go, Devops tools, Machine Learning**
 
 ---
 
