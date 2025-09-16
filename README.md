@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MForofontov&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MForofontov&layout=compact&theme=radical&langs_count=10" height="180em" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MForofontov&theme=onedark&title=Commits,PullRequest,Reviews,Issues,Experience,Stars,Repositories,Followers&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=MForofontov&theme=onedark&title=Commits,PullRequest,Reviews,Issues,Experience,Stars,Repositories,Followers" alt="GitHub Profile Trophy">
 </p>
 
 ---
