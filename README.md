@@ -165,15 +165,6 @@
 
 </p>
 
-### CI/CD & GitOps:
-
-<p>
-<!-- GitHub Actions -->
-<img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" alt="GitHub Actions" />
-
-<!-- GitLab CI/CD -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab CI/CD" />
-
 ### Version Control, Project Management & Collaboration:
 
 <p> 
