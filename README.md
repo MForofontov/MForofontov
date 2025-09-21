@@ -24,119 +24,28 @@
 ---
 
 ## **Tools & Technologies I Use**
-<tr>
-  <th>Testing</th>
-  <th>Databases &amp; DB management</th>
-</tr>
-<tr>
-  <td align="center" valign="top">
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40" alt="Pytest" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest" />
-      <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40" alt="Playwright" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium" />
-      <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="40" height="40" alt="Allure Report" />
-    </p>
-  </td>
-  <td align="center" valign="top">
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40" alt="DBeaver" />
-    </p>
-  </td>
-</tr>
 
-<tr>
-  <th>Cloud platforms</th>
-  <th>Event streaming &amp; messaging</th>
-</tr>
-<tr>
-  <td align="center" valign="top">
-    <p>
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" width="40" height="40" alt="AWS" />
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-cloud.svg" width="40" height="40" alt="Google Cloud Platform" />
-      <img src="https://cdn.simpleicons.org/openstack/ED1944" width="40" height="40" alt="OpenStack" />
-    </p>
-  </td>
-  <td align="center" valign="top">
-    <p>
-      <!-- Celery -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ" />
-    </p>
-  </td>
-</tr>
+| **Programming languages** | **Libraries & frameworks** |
+| --- | --- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=flat) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat) | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat) |
 
-<tr>
-  <th>Monitoring, metrics, logs &amp; visualization</th>
-  <th>Version control, PM &amp; collaboration</th>
-</tr>
-<tr>
-  <td align="center" valign="top">
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="Elasticsearch" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" width="40" height="40" alt="Logstash" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="40" height="40" alt="Kibana" />
-      <img src="https://svgmix.com/uploads/71c5b8-logicmonitor.svg" width="40" height="40" alt="LogicMonitor" />
-    </p>
-  </td>
-  <td align="center" valign="top">
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" height="40" alt="Notion" />
-    </p>
-  </td>
-</tr>
+| **Testing** | **Databases & DB management** |
+| --- | --- |
+| ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=flat) ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=flat) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat) ![Allure](https://img.shields.io/badge/Allure-ED234B?style=flat) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat) ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat) |
 
-<tr>
-  <th>Infrastructure as Code / Automation</th>
-  <th>Containers &amp; deployment</th>
-</tr>
-<tr>
-  <td align="center" valign="top">
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" />
-      <!-- Rundeck -->
-    </p>
-  </td>
-  <td align="center" valign="top">
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />
-    </p>
-  </td>
-</tr>
+| **Cloud platforms** | **Event streaming & messaging** |
+| --- | --- |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat) ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?logo=openstack&logoColor=white&style=flat) | ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=flat) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat) |
 
-<tr>
-  <th>IDEs &amp; code editors</th>
-  <th>Development tools</th>
-</tr>
-<tr>
-  <td align="center" valign="top">
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="Visual Studio Code" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" width="40" height="40" alt="Spyder" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40" alt="RStudio" />
-    </p>
-  </td>
-  <td align="center" valign="top">
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" alt="Vite" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
-    </p>
-  </td>
-</tr>
+| **Monitoring, metrics, logs & visualization** | **Version control, PM & collaboration** |
+| --- | --- |
+| ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat) ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat) ![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white&style=flat) ![LogicMonitor](https://img.shields.io/badge/LogicMonitor-1F3464?style=flat) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat) ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat) |
 
+| **Infrastructure as Code / Automation** | **Containers & deployment** |
+| --- | --- |
+| ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat) ![Rundeck](https://img.shields.io/badge/Rundeck-CC0000?style=flat) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat) |
+
+| **IDEs & code editors** | **Development tools** |
+| --- | --- |
+| ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=flat) ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=flat) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat) | ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat) |
 
