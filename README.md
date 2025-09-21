@@ -25,7 +25,7 @@
 
 ## **Tools & Technologies I Use**
 
-### 🛠️ Programming languages:
+### Programming languages:
 <p>
 <!-- Python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
@@ -164,6 +164,15 @@
 <img src="https://svgmix.com/uploads/71c5b8-logicmonitor.svg" width="40" height="40" alt="LogicMonitor" />
 
 </p>
+
+### CI/CD & GitOps:
+
+<p>
+<!-- GitHub Actions -->
+<img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" alt="GitHub Actions" />
+
+<!-- GitLab CI/CD -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab CI/CD" />
 
 ### Version Control, Project Management & Collaboration:
 
