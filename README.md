@@ -24,7 +24,6 @@
 ---
 
 ## **Tools & Technologies I Use**
-<h2><strong>Tools &amp; Technologies I Use</strong></h2>
 
 <h3>Programming languages</h3>
 <p>
