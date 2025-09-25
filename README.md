@@ -32,7 +32,7 @@
 
   <tr>
     <td><b>Programming Languages</b></td>
-    <td align="center">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
@@ -46,7 +46,7 @@
 
   <tr>
     <td><b>Frameworks & Libraries</b></td>
-    <td align="center">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" alt="Django"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
       <img src="https://nestjs.com/img/logo-small.svg" width="30" alt="NestJS"/>
@@ -58,7 +58,7 @@
 
   <tr>
     <td><b>Testing</b></td>
-    <td align="center">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="30" alt="Pytest"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30" alt="Jest"/>
       <img src="https://playwright.dev/img/playwright-logo.svg" width="30" alt="Playwright"/>
@@ -69,7 +69,7 @@
 
   <tr>
     <td><b>Databases</b></td>
-    <td align="center">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB"/>
@@ -81,7 +81,7 @@
 
   <tr>
     <td><b>Cloud</b></td>
-    <td align="center">
+    <td>
       <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" width="30" alt="AWS"/>
       <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-cloud.svg" width="30" alt="GCP"/>
       <img src="https://cdn.simpleicons.org/openstack/ED1944" width="30" alt="OpenStack"/>
@@ -90,7 +90,7 @@
 
   <tr>
     <td><b>Event Streaming & Messaging</b></td>
-    <td align="center">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="30" alt="Kafka"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="30" alt="RabbitMQ"/>
     </td>
@@ -98,7 +98,7 @@
 
   <tr>
     <td><b>Monitoring & Logging</b></td>
-    <td align="center">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="30" alt="Grafana"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="30" alt="Prometheus"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="30" alt="Elasticsearch"/>
@@ -110,7 +110,7 @@
 
   <tr>
     <td><b>Version Control & Collaboration</b></td>
-    <td align="center">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30" alt="GitLab"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git"/>
@@ -121,7 +121,7 @@
 
   <tr>
     <td><b>Dev Tools</b></td>
-    <td align="center">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="30" alt="Vite"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" alt="Postman"/>
     </td>
@@ -129,7 +129,7 @@
 
   <tr>
     <td><b>IaC & Automation</b></td>
-    <td align="center">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="30" alt="Ansible"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" alt="Terraform"/>
     </td>
@@ -137,7 +137,7 @@
 
   <tr>
     <td><b>Containers & Deployment</b></td>
-    <td align="center">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" alt="Kubernetes"/>
     </td>
@@ -145,7 +145,7 @@
 
   <tr>
     <td><b>IDEs & Editors</b></td>
-    <td align="center">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="VS Code"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="30" alt="PyCharm"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" width="30" alt="Spyder"/>
