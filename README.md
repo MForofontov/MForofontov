@@ -21,6 +21,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MForofontov&theme=onedark&title=Commits,PullRequest,Reviews,Issues,Experience,Stars,Repositories,Followers" alt="GitHub Profile Trophy">
 </p>
 
+<div align="center">
   <!--START_SECTION:tools-->
   | **Category** | **Technologies** |
   |--------------|------------------|
@@ -37,4 +38,5 @@
   | **Containers & Deployment** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" alt="Kubernetes"/> |
   | **IDEs & Editors** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="30" alt="PyCharm"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" width="30" alt="Spyder"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30" alt="Jupyter"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="30" alt="RStudio"/> |
   <!--END_SECTION:tools-->
+  </div>
 
