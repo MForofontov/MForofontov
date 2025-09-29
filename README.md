@@ -153,20 +153,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="30" alt="RStudio"/>
     </td>
   </tr>
-
-<tr>
-  <td><strong>AI Tools</strong></td>
-  <td>
-    <!-- ChatGPT (this one you said works) -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="30" alt="ChatGPT"/>
-    <!-- Claude (official Wikimedia SVG) -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Claude_AI_logo.svg" width="30" alt="Claude"/>
-    <!-- Cursor (placeholder until official found) -->
-    <img src="https://raw.githubusercontent.com/cursorai/assets/main/cursor-logo.svg" width="30" alt="Cursor"/>
-    <!-- GitHub Copilot (official Wikimedia SVG) -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/GitHub_Copilot_logo.svg" width="30" alt="GitHub Copilot"/>
-  </td>
-</tr>
 </table>
 
 </div>
