@@ -153,6 +153,16 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="30" alt="RStudio"/>
     </td>
   </tr>
+
+  <tr>
+    <td><b>AI Tools</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/openai/412991" width="30" alt="ChatGPT"/>
+      <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="30" alt="Claude"/>
+      <img src="https://avatars.githubusercontent.com/u/131387977?s=200&v=4" width="30" alt="Cursor"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub Copilot"/>
+    </td>
+  </tr>
 </table>
 
 </div>
