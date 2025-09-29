@@ -157,10 +157,17 @@
   <tr>
     <td><b>AI Tools</b></td>
     <td>
-      <img src="https://cdn.simpleicons.org/openai/412991" width="30" alt="ChatGPT"/>
-      <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="30" alt="Claude"/>
-      <img src="https://avatars.githubusercontent.com/u/131387977?s=200&v=4" width="30" alt="Cursor"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub Copilot"/>
+      <!-- ChatGPT -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="30" alt="ChatGPT"/>
+  
+      <!-- Claude -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Claude_AI_logo.svg" width="30" alt="Claude"/>
+  
+      <!-- Cursor -->
+      <img src="https://raw.githubusercontent.com/cursorai/assets/main/cursor-logo.svg" width="30" alt="Cursor"/>
+  
+      <!-- GitHub Copilot -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/GitHub_Copilot_logo.svg" width="30" alt="GitHub Copilot"/>
     </td>
   </tr>
 </table>
