@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://github.com/MForofontov?tab=repositories"><img src="https://img.shields.io/badge/-My%20Repos-181717?style=for-the-badge&logo=github" alt="GitHub Repositories"></a>
   <a href="https://www.linkedin.com/in/mykyta-forofontov-7128a31bb"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:[mykyta_forofontov@hotmail.com]"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
