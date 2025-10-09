@@ -88,7 +88,7 @@
   </tr>
 
   <tr>
-    <td><b>Event Streaming & Messaging</b></td>
+    <td><b>Event Streaming & Messaging & Queue</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="30" alt="Kafka"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="30" alt="RabbitMQ"/>
