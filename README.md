@@ -103,7 +103,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="30" alt="Elasticsearch"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" width="30" alt="Logstash"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="30" alt="Kibana"/>
-      <img src="https://svgmix.com/uploads/71c5b8-logicmonitor.svg" width="30" alt="LogicMonitor"/>
     </td>
   </tr>
 
