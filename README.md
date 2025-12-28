@@ -130,7 +130,6 @@
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="30" alt="Ansible"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" alt="Terraform"/>
-      <img src="https://raw.githubusercontent.com/ansible/awx/devel/docs/images/awx-logo.png" width="30" alt="AWX"/>
     </td>
   </tr>
 
