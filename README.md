@@ -15,8 +15,6 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MForofontov&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MForofontov&layout=compact&theme=radical&langs_count=10" height="180em" />
   <img src="https://github-profile-trophy.vercel.app/?username=MForofontov&theme=onedark&title=Commits,PullRequest,Reviews,Issues,Experience,Stars,Repositories,Followers" alt="GitHub Profile Trophy">
 </p>
 
