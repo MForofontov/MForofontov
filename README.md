@@ -12,12 +12,6 @@
 - 🌱 I’m currently learning the following: **Next.js, NestJS, React, Typescript/Javascript languages, Go**
 
 ---
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MForofontov&theme=onedark&title=Commits,PullRequest,Reviews,Issues,Experience,Stars,Repositories,Followers" alt="GitHub Profile Trophy">
-</p>
-
   <!--START_SECTION:tools-->
 <div align="center">
 
