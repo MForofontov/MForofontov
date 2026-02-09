@@ -1,17 +1,18 @@
-<h1 align="center">Hello there, I'm Mykyta Forofontov! 👋</h1>
+<h1 align="center">Hi, I'm Mykyta Forofontov</h1>
 
 <p align="center">
-  <a href="https://github.com/MForofontov?tab=repositories"><img src="https://img.shields.io/badge/-My%20Repos-181717?style=for-the-badge&logo=github" alt="GitHub Repositories"></a>
-  <a href="https://www.linkedin.com/in/mykyta-forofontov-7128a31bb"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  Software Developer • Backend • Automation • Infrastructure
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/MForofontov?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/mykyta-forofontov-7128a31bb">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</p
 
-### 👨‍💻 About Me:
-- 🔭 I’m currently working as a **Software developer III**
-- 🌱 I’m currently learning the following: **Next.js, NestJS, React, Typescript/Javascript languages, Go**
-
----
   <!--START_SECTION:tools-->
 <div align="center">
 
