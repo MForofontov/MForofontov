@@ -5,13 +5,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MForofontov?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/mykyta-forofontov-7128a31bb">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-</p
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MForofontov&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true"
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MForofontov&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    height="140"
+  />
+</p>
 
   <!--START_SECTION:tools-->
 <div align="center">
