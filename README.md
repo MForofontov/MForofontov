@@ -4,19 +4,7 @@
   Software Developer • Backend • Automation • Infrastructure
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MForofontov&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true"
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MForofontov&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-    height="140"
-  />
-</p>
+---
 
   <!--START_SECTION:tools-->
 <div align="center">
