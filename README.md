@@ -59,6 +59,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" alt="SQLite"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" alt="Redis"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cockroachdb/cockroachdb-original.svg" width="30" alt="CockroachDB"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="30" alt="DBeaver"/>
     </td>
   </tr>
