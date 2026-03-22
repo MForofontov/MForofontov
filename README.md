@@ -4,6 +4,17 @@
   Software Developer • Backend • Automation • Infrastructure
 </p>
 
+## 👨‍💻 About Me
+
+Software Engineer with ~5 years of experience in backend development, automation, and infrastructure.
+
+- Designing event-driven microservices (NestJS, Kafka, Redis)
+- Building scalable test automation frameworks (Playwright, Pytest, Jest)
+- Working with cloud and infrastructure (Docker, Kubernetes, Terraform, Ansible)
+- Focused on reliability, observability, and system design
+
+Currently working on internal tooling and distributed systems for testing environments.
+
 ---
 
   <!--START_SECTION:tools-->
