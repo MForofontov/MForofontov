@@ -4,7 +4,7 @@
   Software Developer • Backend • Automation • Infrastructure
 </p>
 
-## 👨‍💻 About Me
+## About Me
 
 Software Engineer with ~5 years of experience in backend development, automation, and infrastructure.
 
