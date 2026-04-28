@@ -6,7 +6,7 @@
 
 ## About Me
 
-Software Engineer with ~5 years of experience in backend development, automation, and infrastructure.
+Software Engineer with ~5 years of experience in full stack development, automation, and infrastructure.
 
 - Designing event-driven microservices (NestJS, Kafka, Redis)
 - Building scalable test automation frameworks (Playwright, Pytest, Jest)
