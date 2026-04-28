@@ -60,6 +60,7 @@ Currently working on internal tooling and distributed systems for testing enviro
       <img src="https://playwright.dev/img/playwright-logo.svg" width="30" alt="Playwright"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="30" alt="Selenium"/>
       <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="30" alt="Allure"/>
+      <img src="https://raw.githubusercontent.com/grafana/k6/master/assets/logo.svg" width="30" alt="k6"/>
     </td>
   </tr>
 
