@@ -81,6 +81,7 @@ Currently working on internal tooling and distributed systems for testing enviro
       <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" width="30" alt="AWS"/>
       <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-cloud.svg" width="30" alt="GCP"/>
       <img src="https://cdn.simpleicons.org/openstack/ED1944" width="30" alt="OpenStack"/>
+      <img src="https://cdn.simpleicons.org/vercel/000000" width="30" alt="Vercel"/>
     </td>
   </tr>
 
