@@ -156,8 +156,6 @@ Frontend Engineering      ████████████░░░░░░
       &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="30" height="30" alt="Ansible" title="Ansible"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="30" height="30" alt="AWX / Ansible" title="AWX / Ansible"/>
-      &nbsp;
       <img src="https://cdn.simpleicons.org/rundeck" width="30" height="30" alt="Rundeck" title="Rundeck"/>
     </td>
   </tr>
