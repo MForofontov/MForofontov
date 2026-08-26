@@ -61,147 +61,150 @@ Frontend Engineering      ████████████░░░░░░
   <tr>
     <td><strong>Languages</strong></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python" title="Python"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript" title="TypeScript"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript" title="JavaScript"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" alt="Bash"/>
+      <img src="https://cdn.simpleicons.org/gnubash/4EAA25/4EAA25" width="30" height="30" alt="Bash" title="Bash"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30" alt="R"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30" height="30" alt="R" title="R"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Backend</strong></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" alt="Django"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" height="30" alt="Django" title="Django"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" alt="Flask"/>
+      <img src="https://cdn.simpleicons.org/flask/000000/FFFFFF" width="30" height="30" alt="Flask" title="Flask"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30" alt="FastAPI"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30" height="30" alt="FastAPI" title="FastAPI"/>
       &nbsp;
-      <img src="https://nestjs.com/img/logo-small.svg" width="30" alt="NestJS"/>
+      <img src="https://nestjs.com/img/logo-small.svg" width="30" height="30" alt="NestJS" title="NestJS"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React" title="React"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" alt="Next.js"/>
+      <img src="https://cdn.simpleicons.org/nextdotjs/000000/FFFFFF" width="30" height="30" alt="Next.js" title="Next.js"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5" title="HTML5"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="CSS3" title="CSS3"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Testing & Quality</strong></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="30" alt="Pytest"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="30" height="30" alt="Pytest" title="Pytest"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30" alt="Jest"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30" height="30" alt="Jest" title="Jest"/>
       &nbsp;
-      <img src="https://playwright.dev/img/playwright-logo.svg" width="30" alt="Playwright"/>
+      <img src="https://playwright.dev/img/playwright-logo.svg" width="30" height="30" alt="Playwright" title="Playwright"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="30" alt="Selenium"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="30" height="30" alt="Selenium" title="Selenium"/>
       &nbsp;
-      <img src="https://raw.githubusercontent.com/grafana/k6/master/assets/logo.svg" width="30" alt="k6"/>
+      <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="30" height="30" alt="Allure" title="Allure"/>
+      &nbsp;
+      <img src="https://raw.githubusercontent.com/grafana/k6/master/assets/logo.svg" width="30" height="30" alt="k6" title="k6"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Databases & Caching</strong></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="PostgreSQL" title="PostgreSQL"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL" title="MySQL"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" alt="SQLite"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" height="30" alt="SQLite" title="SQLite"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" alt="Redis"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" height="30" alt="Redis" title="Redis"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cockroachlabs.svg" width="30" alt="CockroachDB"/>
+      <img src="https://cdn.simpleicons.org/cockroachlabs" width="30" height="30" alt="CockroachDB" title="CockroachDB"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Messaging & Streaming</strong></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="30" alt="Apache Kafka"/>
+      <img src="https://cdn.simpleicons.org/apachekafka/231F20/FFFFFF" width="30" height="30" alt="Apache Kafka" title="Apache Kafka"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="30" alt="RabbitMQ"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="30" height="30" alt="RabbitMQ" title="RabbitMQ"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Containers & Orchestration</strong></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30" alt="Docker" title="Docker"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" alt="Kubernetes"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" height="30" alt="Kubernetes" title="Kubernetes"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Infrastructure & Automation</strong></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" alt="Terraform"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" height="30" alt="Terraform" title="Terraform"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="30" alt="Ansible"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="30" height="30" alt="Ansible" title="Ansible"/>
       &nbsp;
-      <strong>AWX</strong>
-      &nbsp;•&nbsp;
-      <strong>Rundeck</strong>
+      <img src="https://raw.githubusercontent.com/ansible/logos/main/awx/awx-icon.svg" width="30" height="30" alt="AWX" title="AWX"/>
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/rundeck" width="30" height="30" alt="Rundeck" title="Rundeck"/>
     </td>
   </tr>
 
   <tr>
-    <td><strong>Cloud & Platforms</strong></td>
+    <td><strong>Cloud & Infrastructure Platforms</strong></td>
     <td>
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" width="30" alt="AWS"/>
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" width="30" height="30" alt="AWS" title="AWS"/>
       &nbsp;
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-cloud.svg" width="30" alt="Google Cloud"/>
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-cloud.svg" width="30" height="30" alt="Google Cloud" title="Google Cloud"/>
       &nbsp;
-      <img src="https://cdn.simpleicons.org/openstack/ED1944" width="30" alt="OpenStack"/>
+      <img src="https://cdn.simpleicons.org/openstack/ED1944" width="30" height="30" alt="OpenStack" title="OpenStack"/>
       &nbsp;
-      <strong>VMware</strong>
+      <img src="https://cdn.simpleicons.org/vmware/607078/FFFFFF" width="30" height="30" alt="VMware" title="VMware"/>
     </td>
   </tr>
 
   <tr>
-    <td><strong>Observability</strong></td>
+    <td><strong>Observability & Logging</strong></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="30" alt="Grafana"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="30" height="30" alt="Grafana" title="Grafana"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="30" alt="Prometheus"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="30" height="30" alt="Prometheus" title="Prometheus"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="30" alt="Elasticsearch"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="30" height="30" alt="Elasticsearch" title="Elasticsearch"/>
       &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" width="30" alt="Logstash"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" width="30" height="30" alt="Logstash" title="Logstash"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="30" alt="Kibana"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="30" height="30" alt="Kibana" title="Kibana"/>
     </td>
   </tr>
 
   <tr>
-    <td><strong>Development & Collaboration</strong></td>
+    <td><strong>Developer Tools & Collaboration</strong></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" title="Git"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"/>
+      <img src="https://cdn.simpleicons.org/github/181717/FFFFFF" width="30" height="30" alt="GitHub" title="GitHub"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30" alt="GitLab"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30" height="30" alt="GitLab" title="GitLab"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" alt="Postman"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" height="30" alt="Postman" title="Postman"/>
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="30" alt="Jira"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="30" height="30" alt="Jira" title="Jira"/>
     </td>
   </tr>
+
 </table>
 
 </div>
