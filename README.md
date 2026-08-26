@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mykyta Forofontov</h1>
 
 <p align="center">
-  <strong>Senior Software Engineer / SDET</strong><br/>
+  <strong>Senior Software Engineer / SDET / DevOps</strong><br/>
   Backend Engineering • Test Infrastructure • Platform Engineering • DevOps
 </p>
 
