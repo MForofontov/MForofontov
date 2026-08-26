@@ -1,19 +1,26 @@
 <h1 align="center">Hi, I'm Mykyta Forofontov</h1>
 
 <p align="center">
-  Software Developer • Backend • Automation • Infrastructure
+  Full Software Developer • DevOps
 </p>
 
 ## About Me
 
-Software Engineer with ~5 years of experience in full stack development, automation, and infrastructure.
+Senior Software Engineer / SDET with 5+ years of experience building backend systems, internal platforms, automation tooling, and production-like test infrastructure.
 
-- Designing event-driven microservices (NestJS, Kafka, Redis)
-- Building scalable test automation frameworks (Playwright, Pytest, Jest)
-- Working with cloud and infrastructure (Docker, Kubernetes, Terraform, Ansible)
-- Focused on reliability, observability, and system design
+I work at the intersection of software engineering, test automation, platform engineering, and DevOps, with a focus on improving reliability, delivery speed, and engineering efficiency.
 
-Currently working on internal tooling and distributed systems for testing environments.
+
+My experience includes:
+
+• Backend and API development — Python, Django, Flask, FastAPI, NestJS, TypeScript
+• Internal platforms and full-stack tooling — React, PostgreSQL, Redis, SQL
+• System, integration, performance, and load-test automation
+• CI/CD pipelines and release validation
+• QA and Pre-Production environment architecture and reliability
+• Infrastructure automation — Terraform, Ansible, AWX, Rundeck, Python, shell scripting
+• Kubernetes, Docker, OpenStack, VMware, and cloud-native infrastructure
+• Observability — Grafana, Prometheus, Elastic Stack, LogicMonitor
 
 ---
 
