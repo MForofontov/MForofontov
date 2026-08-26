@@ -30,22 +30,6 @@ My experience spans:
 
 I enjoy solving engineering problems where **software development, automation, infrastructure, and testing overlap**.
 
----
-
-## Core Focus
-
-```text
-Backend Engineering       ████████████████████
-Test Automation           ████████████████████
-Platform Engineering      ███████████████████░
-DevOps / Infrastructure   ███████████████████░
-CI/CD & Release Systems   ██████████████████░░
-Observability             █████████████████░░░
-Frontend Engineering      ████████████░░░░░░░░
-```
-
----
-
 <!--START_SECTION:tools-->
 
 ## Technology Stack
